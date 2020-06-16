@@ -13,7 +13,7 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 )
 
-const filepath = "./test.db"
+const filepath = "./requestbin.db"
 
 func main() {
 	// Initialize the Database
